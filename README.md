@@ -1,5 +1,5 @@
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dipendra+Bhatta!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dipendra+Bhatta!;" />
 </h1>
 
 <h3>Passionate software developer from Nepal 🇳🇵, currently in Bangalore, India 🇮🇳</h3>

@@ -2,13 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dipendra+Bhatta!;" />
 </h1>
 
-<h3>Passionate software developer from Nepal 🇳🇵, currently in Bangalore, India 🇮🇳</h3>
-
-<p>
-🔭 Backend Facilitator at Google DSC FET JU <br/>
-🌱 Currently learning Jenkins, AWS <br/>
-💬 Ask me about Spring Boot, React, Microservices... or anything here
-</p>
+- 🌱 **I’m Currently pursuing a Bachelor's in Computer Engineering at NAST**
+- 💻 I’m currently Learning, building, and sharing tech — **DSA, Web Dev, ML | YouTube & Unstop**
+- 🎨 I have experience in **Frontend and Backend Development** with **Django, Flask, React.js, Node.js, Express.js**
+- 🤖 Learning  **AI-Integrated Website Development**
+- 📚 Check out my projects on **[Project & work ](https://github.com/thecodingdhami?tab=repositories)**
+- 💬 Ask me about **C, C++, HTML, CSS, JavaScript, Python, Machine Learning**
+- 📧 Reach me at **Rakeshsinghdhami@gmail.com**
 
 <br/>
 

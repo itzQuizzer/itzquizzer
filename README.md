@@ -1,58 +1,53 @@
-<h1 align="center">
+<h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dipendra+Bhatta!;" />
 </h1>
-<h3 align="center">Passionate software developer from Nepal 🇳🇵, currently in Bangalore, India 🇮🇳</h3>
-<div align="center">
 
-🔭 Backend Facilitator at Google DSC FET JU
+<h3>Passionate software developer from Nepal 🇳🇵, currently in Bangalore, India 🇮🇳</h3>
 
-🌱 Currently learning Jenkins, AWS
-
+<p>
+🔭 Backend Facilitator at Google DSC FET JU <br/>
+🌱 Currently learning Jenkins, AWS <br/>
 💬 Ask me about Spring Boot, React, Microservices... or anything here
- </div>
+</p>
+
 <br/>
-<div align="center"> 
+
+<p> 
   <a href="mailto:dipenbhat557@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/dipendra-bhatta-38ba32259/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://dipendrabhatta.com.np" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
-</div>
+</p>
+
 <hr/>
 <br/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <div>
-          <h4 align="center">Programming Languages</h4>
-        <img src="https://skillicons.dev/icons?i=java,c,python,javascript,typescript" />
-    </div>
-    <div>
-        <h4 align="center">Frameworks</h4>
-        <img src="https://skillicons.dev/icons?i=spring,react,tailwind" />
-    </div>
-</div>
+
+<h4>Programming Languages</h4>
+<img src="https://skillicons.dev/icons?i=java,c,python,javascript,typescript" />
+
+<h4>Frameworks</h4>
+<img src="https://skillicons.dev/icons?i=spring,react,tailwind" />
+
 <br/>
-<div align="center">
-    <div>
-         <h4 align="center">Web Technologies</h4>
-        <img src="https://skillicons.dev/icons?i=threejs,firebase,kafka" />
-    </div>
-    <div>
-         <h4 align="center">DevOps</h4>
-        <img src="https://skillicons.dev/icons?i=docker,git,kubernetes,jenkins" />
-    </div>
-</div>
+
+<h4>Web Technologies</h4>
+<img src="https://skillicons.dev/icons?i=threejs,firebase,kafka" />
+
+<h4>DevOps</h4>
+<img src="https://skillicons.dev/icons?i=docker,git,kubernetes,jenkins" />
+
 <br/>
-<div align="center">
-    <div>
-        <h4 align="center">Database</h4>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-    </div>
-</div>
+
+<h4>Database</h4>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
 <br/>
 <hr/>

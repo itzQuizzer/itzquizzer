@@ -1,53 +1,19 @@
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dipendra+Bhatta!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Hi+There!+👋;+It's+Quizzer+!;" />
 </h1>
 
-- 🌱 **I’m Currently pursuing a Bachelor's in Computer Engineering at NAST**
-- 💻 I’m currently Learning, building, and sharing tech — **DSA, Web Dev, ML | YouTube & Unstop**
-- 🎨 I have experience in **Frontend and Backend Development** with **Django, Flask, React.js, Node.js, Express.js**
-- 🤖 Learning  **AI-Integrated Website Development**
-- 📚 Check out my projects on **[Project & work ](https://github.com/thecodingdhami?tab=repositories)**
-- 💬 Ask me about **C, C++, HTML, CSS, JavaScript, Python, Machine Learning**
-- 📧 Reach me at **Rakeshsinghdhami@gmail.com**
+- 🌱 **Building and maintaining Quizzer — a web-based quiz platform**
+- 💻 **Tech stack:** Python (Flask, Django), JavaScript, HTML, CSS
+- 🎨 Experience in **Frontend & Backend Development**
+- 🤖 Currently exploring **AI-Integrated Quiz Features**
+- 📚 Check out Quizzer projects on **[Project & work](https://github.com/itzQuizzer?tab=repositories)**
+- 📧 Reach me at **quizzer1pro@gmail.com**
 
-<br/>
 
-<p> 
-  <a href="mailto:dipenbhat557@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/dipendra-bhatta-38ba32259/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://dipendrabhatta.com.np" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/thecodingdhami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thecodingdhami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dinesh.singhdhami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@thecodingdhami1?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
-
-<hr/>
-<br/>
-
-<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-
-<h4>Programming Languages</h4>
-<img src="https://skillicons.dev/icons?i=java,c,python,javascript,typescript" />
-
-<h4>Frameworks</h4>
-<img src="https://skillicons.dev/icons?i=spring,react,tailwind" />
-
-<br/>
-
-<h4>Web Technologies</h4>
-<img src="https://skillicons.dev/icons?i=threejs,firebase,kafka" />
-
-<h4>DevOps</h4>
-<img src="https://skillicons.dev/icons?i=docker,git,kubernetes,jenkins" />
-
-<br/>
-
-<h4>Database</h4>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-
-<br/>
-<hr/>

@@ -3,7 +3,7 @@
 </h1>
 
 - 🌱 **Building and maintaining Quizzer — a web-based quiz platform**
-- 💻 **Tech stack:** Python (Flask, Django), JavaScript, HTML, CSS
+- 💻 **Tech stack:** Python (Flask), JavaScript, Ajax, HTML, CSS
 - 🎨 Experience in **Frontend & Backend Development**
 - 🤖 Currently exploring **AI-Integrated Quiz Features**
 - 📚 Check out Quizzer projects on **[Project & work](https://github.com/itzQuizzer?tab=repositories)**

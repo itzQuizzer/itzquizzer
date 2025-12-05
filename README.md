@@ -6,10 +6,10 @@
 - 💻 **Tech stack:** Python (Flask), JavaScript, Ajax, HTML, CSS
 - 🎨 Experience in **Frontend & Backend Development**
 - 🤖 Currently exploring **AI-Integrated Quiz Features**
-- 📚 Check out Quizzer projects on **[Project & work](https://github.com/itzQuizzer?tab=repositories)**
+- 📚 Check out Quizzer projects on **[Project & work](https://github.com/dineshsinghdhami?tab=repositories)**
+- 📱 **Use our app:** https://quizzerhub.pythonanywhere.com/
 - 📧 Reach me at **quizzer1pro@gmail.com**
 - 🔧 **This page is handled by** [**@dineshsinghdhami**](https://github.com/dineshsinghdhami)
-- 📱 **Use our app:** https://quizzerhub.pythonanywhere.com/
 
 
 

@@ -8,6 +8,7 @@
 - 🤖 Currently exploring **AI-Integrated Quiz Features**
 - 📚 Check out Quizzer projects on **[Project & work](https://github.com/itzQuizzer?tab=repositories)**
 - 📧 Reach me at **quizzer1pro@gmail.com**
+- 🔧 **This page is handled by** [**@dineshsinghdhami**](https://github.com/dineshsinghdhami)
 
 
 
